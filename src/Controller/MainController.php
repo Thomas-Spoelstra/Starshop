@@ -2,7 +2,6 @@
 
 namespace App\Controller;
 
-use App\Model\Starship;
 use App\Repository\StarshipRepository;
 use Symfony\Bundle\FrameworkBundle\Controller\AbstractController;
 use Symfony\Component\HttpFoundation\Response;
